@@ -1,68 +1,68 @@
+
 🎮 Mini-Game Bash 🎯
+Bienvenue dans Mini-Game Bash – une collection de petits jeux en ligne de commande, créés en Bash, pour tester votre logique, vos compétences en mathématiques et votre capacité à deviner des mots !
 
-Découvrez Mini-Game Bash – une collection captivante de jeux en ligne de commande développés en Bash.
-Testez votre logique, affinez vos compétences mathématiques et fiez-vous à votre intuition ! 🧠🎲
+📌 Description du Projet
+Ce projet propose trois mini-jeux, inspirés de célèbres concepts télévisés et jeux populaires :
 
-📌 À propos du projet
-Plongez dans trois expériences de jeu interactives, inspirées de classiques populaires :
+🏆 Le Juste Prix (Devinez le Nombre)
+Un jeu simple où vous devez deviner un nombre généré aléatoirement par l'ordinateur.
+Vous disposez d'un nombre limité de tentatives pour trouver la bonne réponse.
 
-🏆 Le Juste Prix
-Défiez l'ordinateur en devinant un nombre mystère généré aléatoirement. Chaque tentative compte !
-✅ Mission : Trouver le bon nombre avant la fin du temps imparti
-🔎 Stratégie : Analysez les indices "trop haut" ou "trop bas" pour affiner vos prochaines tentatives
+🔹 Objectif : Trouvez le nombre exact.
+🔹 Difficulté : Chaque tentative vous rapproche ou vous éloigne du bon prix.
 
-➕ Le Compte est Bon
-Faites travailler vos méninges dans ce défi mathématique inspiré du célèbre jeu télévisé.
-🧮 Mission : Combiner des nombres avec les opérations fondamentales (+, -, *, /) pour atteindre la cible
-🎯 Atout : Excellente gymnastique mentale pour développer votre agilité mathématique
+➕ Le Compte est Bon (Calcul Mathématique)
+Inspiré du jeu télévisé, vous devez atteindre un nombre cible en utilisant les opérations mathématiques de base (+, -, *, /) et un ensemble de nombres fournis.
+
+🔹 Objectif : Obtenez le nombre exact ou le plus proche possible.
+🔹 Compétences : Addition, soustraction, multiplication, division et logique.
 
 🔤 Wordle en Bash
-Découvrez cette adaptation en ligne de commande du phénomène mondial Wordle.
-💡 Mission : Trouver le mot caché en un minimum de tentatives
-📝 Mécanique : Identifiez les lettres correctement placées et celles mal positionnées grâce aux indices
+Un jeu basé sur le concept de Wordle. Devinez un mot caché en plusieurs tentatives.
+Chaque essai fournit des indices pour ajuster votre prochaine réponse.
 
-🚀 Démarrage rapide
-1️⃣ Récupérez le projet
+🔹 Objectif : Trouvez le mot secret.
+🔹 Astuce : Les lettres bien placées s'affichent différemment des lettres présentes mais mal positionnées.
 
-bash
-Copier
-Modifier
+🚀 Installation et Exécution
+1️⃣ Clonez le projet
+
+
 git clone https://github.com/nzeyimk/Minigame.git
-2️⃣ Accédez au répertoire
+2️⃣ Accédez au dossier
 
-bash
-Copier
-Modifier
+
 cd mini-game
-3️⃣ Rendez les scripts exécutables
+3️⃣ Assurez-vous que les scripts sont exécutables
 
-bash
-Copier
-Modifier
+
 chmod +x minigame_le_juste_prix.sh le_compte_est_bon.sh wordle.sh
-4️⃣ Lancez le jeu de votre choix
+4️⃣ Lancez un jeu
 
 🏆 Le Juste Prix
-bash
-Copier
-Modifier
+
 ./minigame_le_juste_prix.sh
 ➕ Le Compte est Bon
-bash
-Copier
-Modifier
+
 ./le_compte_est_bon.sh
-🔤 Wordle
-bash
-Copier
-Modifier
+🔤 Wordle en Bash
+
 ./wordle.sh
-💡 Participez au projet
-Votre créativité est la bienvenue ! 🚀
-Vous avez une idée de nouveau jeu ou des améliorations à proposer ? Soumettez une pull request !
+
+💡 Contribuer
+Les contributions sont les bienvenues ! 🚀
+Si vous souhaitez ajouter un jeu ou améliorer ceux existants, ouvrez une pull request.
 
 📜 Licence
-Ce projet est distribué sous licence MIT – vous êtes libre de l'utiliser, le modifier et le partager selon vos besoins.
+Ce projet est sous licence MIT. Vous êtes libre de le modifier et le distribuer.
 
-🎉 Que les jeux commencent ! 😃
+🎉 Amusez-vous bien avec ces petits jeux en Bash ! 😃
+
+
+
+
+
+
+
 
