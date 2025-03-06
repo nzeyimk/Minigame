@@ -23,24 +23,24 @@ Mécanique : Les indices visuels vous guident - identifiez les lettres correctem
 🚀 Démarrage rapide
 
 Récupérez le projet :
-bashCopygit clone https://github.com/SSana24/mini_game.git
+Copygit clone https://github.com/SSana24/mini_game.git
 
 Naviguez jusqu'au répertoire :
-bashCopycd mini-game
+Copycd mini-game
 
 Rendez les scripts exécutables :
-bashCopychmod +x minigame_le_juste_prix.sh le_compte_est_bon.sh wordle.sh
+Copychmod +x minigame_le_juste_prix.sh le_compte_est_bon.sh wordle.sh
 
 Choisissez votre aventure :
 
 Le Juste Prix :
-bashCopy./minigame_le_juste_prix.sh
+Copy./minigame_le_juste_prix.sh
 
 Le Compte est Bon :
-bashCopy./le_compte_est_bon.sh
+Copy./le_compte_est_bon.sh
 
 Wordle :
-bashCopy./wordle.sh
+Copy./wordle.sh
 
 
 
