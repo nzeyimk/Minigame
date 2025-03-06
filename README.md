@@ -27,7 +27,7 @@ Découvrez cette adaptation en ligne de commande du phénomène mondial Wordle.
 bash
 Copier
 Modifier
-git clone https://github.com/nzeyimk/mini_game.git
+git clone https://github.com/nzeyimk/Minigame.git
 2️⃣ Accédez au répertoire
 
 bash
