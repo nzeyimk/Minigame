@@ -1,4 +1,5 @@
 🎮 Mini-Game Bash 🎯
+
 Découvrez Mini-Game Bash – une collection captivante de jeux en ligne de commande développés en Bash.
 Testez votre logique, affinez vos compétences mathématiques et fiez-vous à votre intuition ! 🧠🎲
 
@@ -65,4 +66,3 @@ Ce projet est distribué sous licence MIT – vous êtes libre de l'utiliser, le
 
 🎉 Que les jeux commencent ! 😃
 
-Cette version met en av
